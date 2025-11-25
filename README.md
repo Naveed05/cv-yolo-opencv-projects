@@ -1,5 +1,4 @@
 🧠 YOLOv8 Computer Vision Model Projects
-
 A complete collection of YOLOv8-based detection, tracking, segmentation, and pose estimation models.
 
 📸 Overview
